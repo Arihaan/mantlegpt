@@ -1,6 +1,6 @@
 # MantleGPT
 
-Your AI-Powered Mantle Wallet, Right in Telegram
+An innovative AI-Powered Mantle Wallet, Right in Telegram
 
 ![logomantgp](https://github.com/user-attachments/assets/28741c15-ffb4-4833-b39a-2f35bddc4c1b)
 
