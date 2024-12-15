@@ -2,6 +2,8 @@
 
 Your AI-Powered Mantle Wallet, Right in Telegram
 
+![logomantgp](https://github.com/user-attachments/assets/28741c15-ffb4-4833-b39a-2f35bddc4c1b)
+
 ## Overview
 
 MantleGPT is an intelligent Telegram bot that combines the power of AI with blockchain technology to provide a seamless wallet experience on the Mantle Network. Using natural language processing, users can perform crypto transactions, check balances, and manage their wallet through simple conversations.
