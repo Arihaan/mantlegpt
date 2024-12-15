@@ -95,7 +95,6 @@ MantleGPT is an intelligent Telegram bot that combines the power of AI with bloc
 
 ## Project Structure
 
-    ```
     mantlegpt/
     ├── src/
     │   ├── bot.js          # Main bot logic & command handlers
@@ -103,7 +102,7 @@ MantleGPT is an intelligent Telegram bot that combines the power of AI with bloc
     │   └── nlp.js          # Natural language processing
     ├── package.json
     └── .env
-    ```
+    
 
 ## Security Features
 
