@@ -1,4 +1,4 @@
-# MantleGPT 🤖
+# MantleGPT
 
 Your AI-Powered Mantle Wallet, Right in Telegram
 
