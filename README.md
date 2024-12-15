@@ -47,7 +47,7 @@ MantleGPT is an intelligent Telegram bot that combines the power of AI with bloc
 1. Clone the Repository
 
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/Arihaan/mantlegpt.git
     cd mantlegpt
     ```
 
